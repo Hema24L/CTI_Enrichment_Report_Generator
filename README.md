@@ -1,4 +1,4 @@
-# CTI Enrichement Report Generator
+# CTI Enrichment Report Generator
 
 ## Overview
 
